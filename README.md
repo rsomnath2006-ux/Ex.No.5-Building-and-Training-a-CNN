@@ -186,14 +186,15 @@ def plot_predictions(index):
 for i in range(5):
     plot_predictions(i)
     
-    <img width="552" height="69" alt="image" src="https://github.com/user-attachments/assets/0febb5dd-2c8b-406e-9298-e518f58ea23b" />
-    <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/f97a0605-a07a-48aa-8909-908744ffb565" />
-    <img width="327" height="34" alt="image" src="https://github.com/user-attachments/assets/e266bb30-ee77-4765-8e08-091237edb842" />
-    <img width="554" height="168" alt="image" src="https://github.com/user-attachments/assets/e45f8b04-4822-410d-b7c4-1a5d9d6cfdca" />
-    <img width="554" height="396" alt="image" src="https://github.com/user-attachments/assets/81232b25-568e-4453-af4a-daa8ecb71eae" />
-    <img width="554" height="299" alt="image" src="https://github.com/user-attachments/assets/d91e0a8a-5280-4886-8f58-2533d33104f2" />
-    <img width="554" height="284" alt="image" src="https://github.com/user-attachments/assets/be9212f4-4e6e-4f71-b3f8-43a953665c83" />
-   ##  Conclusion:
+<img width="552" height="69" alt="image" src="https://github.com/user-attachments/assets/0febb5dd-2c8b-406e-9298-e518f58ea23b" />
+<img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/f97a0605-a07a-48aa-8909-908744ffb565" />
+<img width="327" height="34" alt="image" src="https://github.com/user-attachments/assets/e266bb30-ee77-4765-8e08-091237edb84" />
+<img width="554" height="168" alt="image" src="https://github.com/user-attachments/assets/e45f8b04-4822-410d-b7c4-1a5d9d6cfdca" />
+<img width="554" height="396" alt="image" src="https://github.com/user-attachments/assets/81232b25-568e-4453-af4a-daa8ecb71eae" />
+<img width="554" height="299" alt="image" src="https://github.com/user-attachments/assets/d91e0a8a-5280-4886-8f58-2533d33104f2" />
+<img width="554" height="284" alt="image" src="https://github.com/user-attachments/assets/be9212f4-4e6e-4f71-b3f8-43a953665c83" />
+
+##  RESULT:
 Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
 
